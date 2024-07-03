@@ -1,0 +1,37 @@
+body{
+    background-image: url("pikachu.jpg");
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9Pn4I_wdAW4NaqvzGZhNDcrrYkYWQK9YdQQ&s);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+h1 {
+    color:red;
+    p {
+        color: black;
+       }
+       
+       p:hover {
+        color: red;
+        opacity: 0.5;
+       }
+}
+p {font-size: 50px;
+}
+#blue {
+    color: blue;
+}
+div {
+    color: green;
+    width:100px;
+    border-style: dotted;
+    border-width:100px;
+    padding: 5px 10px 15px 20px;
+}
+p {
+    color: black;
+   }
+   
+   p:hover {
+    color: red;
+    opacity: 0.5;
+   }
